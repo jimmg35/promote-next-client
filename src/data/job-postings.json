@@ -1,0 +1,62 @@
+[
+  {
+    "id": "urban-climate-analyst",
+    "title": "Urban Climate Resilience Analyst",
+    "employer": "CivicLab Analytics",
+    "city": "Seattle, WA",
+    "salary": "$78K - $92K",
+    "skills": ["GIS", "Python", "Climate Modeling", "ArcGIS Pro"],
+    "posted": "5 days ago",
+    "type": "Full-time"
+  },
+  {
+    "id": "geoai-scientist",
+    "title": "GeoAI Scientist",
+    "employer": "TerraNova Systems",
+    "city": "Austin, TX",
+    "salary": "$94K - $128K",
+    "skills": ["Machine Learning", "GeoPandas", "AWS", "StoryMaps"],
+    "posted": "2 days ago",
+    "type": "Hybrid"
+  },
+  {
+    "id": "public-health-gis",
+    "title": "Public Health GIS Lead",
+    "employer": "Global Health Watch",
+    "city": "Atlanta, GA",
+    "salary": "$86K - $110K",
+    "skills": ["Epidemiology", "Dashboard Design", "SQL", "ArcGIS Enterprise"],
+    "posted": "12 days ago",
+    "type": "Full-time"
+  },
+  {
+    "id": "uav-operations",
+    "title": "UAV Operations Strategist",
+    "employer": "Aerial Response Group",
+    "city": "Denver, CO",
+    "salary": "$74K - $98K",
+    "skills": ["Part 107", "Mission Planning", "Pix4D", "LiDAR"],
+    "posted": "8 days ago",
+    "type": "On-site"
+  },
+  {
+    "id": "climate-finance-analyst",
+    "title": "Climate Finance Spatial Analyst",
+    "employer": "Gradient Futures",
+    "city": "New York, NY",
+    "salary": "$102K - $138K",
+    "skills": ["Scenario Modeling", "Power BI", "Carbon Accounting", "Python"],
+    "posted": "1 day ago",
+    "type": "Hybrid"
+  },
+  {
+    "id": "humanitarian-data",
+    "title": "Humanitarian Data Fellow",
+    "employer": "ReliefOps Alliance",
+    "city": "Washington, DC",
+    "salary": "$68K - $82K",
+    "skills": ["Rapid Mapping", "UN OCHA Data", "Tableau", "SQL"],
+    "posted": "7 days ago",
+    "type": "Contract"
+  }
+]
