@@ -1,4 +1,4 @@
-﻿import type { Metadata } from "next";
+import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 
@@ -16,6 +16,14 @@ export const metadata: Metadata = {
   title: "Department of Geography - FSU",
   description:
     "A modern geospatial intelligence program combining drones, data science, and human impact.",
+  icons: {
+    icon: [
+      { url: "/favicons/favicon-32x32.png", sizes: "32x32", type: "image/png" },
+      { url: "/favicons/favicon-16x16.png", sizes: "16x16", type: "image/png" },
+    ],
+    apple: "/favicons/apple-touch-icon.png",
+    shortcut: "/favicons/favicon.ico",
+  },
 };
 
 export default function RootLayout({
